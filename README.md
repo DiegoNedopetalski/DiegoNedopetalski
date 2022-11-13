@@ -9,13 +9,6 @@
 
 Meu nome é <b>Diego Luis Nedopetalski</b>. Moro atualmente em São José dos Pinhais, PR - Brasil. Sempre fui <b>apaixonado por tecnologia</b> mas nunca tentei fazer disso minha vida, isso mudou e tenho me focado cada vez mais na área, e pretendo seguir nesse ramo no decorrer da minha vida. Atualmente estou cursando faculdade de <b>Análise e desenvolvimento de sistemas</b> e realizando o curso <b>Web Moderno com JavaScript COMPLETO + Projetos</b> pela Cod3r.
 
-
-<div align="center">
-  <a href="https://github.com/rafaballerini">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DiegoNedopetalski&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiegoNedopetalski&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-
 ##
 
 ### Interesses pessoais
