@@ -11,12 +11,6 @@ Meu nome é <b>Diego Luis Nedopetalski</b>. Moro atualmente em São José dos Pi
 
 ##
 
-### Interesses pessoais
-
-- 💖 &nbsp;Fascinado por tópicos de: tecnologias e qualidade de vida.
-
-##
-
 ### Tecnologias
 
  <div align=center>
